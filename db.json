@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fname": "nazmul",
+      "email": "nazmulahsanst@gmail.com",
+      "pass": "12345",
+      "id": 1
+    },
+    {
+      "fname": "Ahsan",
+      "email": "ahsan@mail.com",
+      "pass": "34567",
+      "id": 2
+    },
+    {
+      "fname": "Nazmul",
+      "email": "naz@gmail.com",
+      "pass": "7890",
+      "id": 3
+    },
+    {
+      "fname": "tom",
+      "email": "tom@gmail.com",
+      "pass": "tom",
+      "id": 4
+    }
+  ]
+}
